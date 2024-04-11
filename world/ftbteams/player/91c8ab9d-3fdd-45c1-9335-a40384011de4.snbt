@@ -1,0 +1,15 @@
+{
+	id: "91c8ab9d-3fdd-45c1-9335-a40384011de4"
+	type: "player"
+	player_name: "CommunismPIgeon"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "CommunismPIgeon"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EAFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

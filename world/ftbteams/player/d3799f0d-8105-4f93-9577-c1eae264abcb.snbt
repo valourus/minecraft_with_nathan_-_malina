@@ -1,0 +1,15 @@
+{
+	id: "d3799f0d-8105-4f93-9577-c1eae264abcb"
+	type: "player"
+	player_name: "SilverSunGuy"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "SilverSunGuy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF75"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

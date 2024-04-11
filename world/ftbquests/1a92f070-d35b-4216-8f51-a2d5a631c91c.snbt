@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "1a92f070d35b42168f51a2d5a631c91c"
+	name: "Umbra1210"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		503F8524875C623B: 1
+	}
+	started: {
+		503F8524875C623B: 1708339261359L
+		0000000000000001: 1708339261359L
+		76992E019CD55E76: 1708339261359L
+		75A430761607DC45: 1708339261359L
+	}
+	completed: {
+		503F8524875C623B: 1708339261359L
+		75A430761607DC45: 1708339261359L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

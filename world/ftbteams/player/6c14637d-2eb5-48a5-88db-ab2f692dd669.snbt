@@ -1,0 +1,15 @@
+{
+	id: "6c14637d-2eb5-48a5-88db-ab2f692dd669"
+	type: "player"
+	player_name: "NLVGAMER"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "NLVGAMER"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF599E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

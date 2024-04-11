@@ -1,0 +1,17 @@
+{
+	id: "359d54c8-0f25-488f-8d8c-c25cf302042f"
+	type: "player"
+	player_name: "IworkforNASA"
+	ranks: {
+		359d54c8-0f25-488f-8d8c-c25cf302042f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "IworkforNASA"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5977"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

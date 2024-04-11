@@ -1,0 +1,28 @@
+{
+	id: "45bc0600-3c7e-471e-8c37-f60dc1d3aba6"
+	type: "party"
+	owner: "91c8ab9d-3fdd-45c1-9335-a40384011de4"
+	ranks: {
+		d3799f0d-8105-4f93-9577-c1eae264abcb: "member"
+		359d54c8-0f25-488f-8d8c-c25cf302042f: "invited"
+		6c14637d-2eb5-48a5-88db-ab2f692dd669: "member"
+		91c8ab9d-3fdd-45c1-9335-a40384011de4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CommunismPIgeon's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EAFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1709155753350L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"CommunismPIgeon\"}]}" }
+		{ from: "91c8ab9d-3fdd-45c1-9335-a40384011de4", date: 1709155753353L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"NLVGAMER\"}]}" }
+		{ from: "91c8ab9d-3fdd-45c1-9335-a40384011de4", date: 1709155753353L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"SilverSunGuy\"}]}" }
+		{ from: "91c8ab9d-3fdd-45c1-9335-a40384011de4", date: 1709155753353L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"IworkforNASA\"}]}" }
+		{ from: "91c8ab9d-3fdd-45c1-9335-a40384011de4", date: 1709155764655L, text: "{\"text\":\"ligma\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1709155764804L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"NLVGAMER\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1709155766305L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"SilverSunGuy\"}]}" }
+	]
+	extra: { }
+}

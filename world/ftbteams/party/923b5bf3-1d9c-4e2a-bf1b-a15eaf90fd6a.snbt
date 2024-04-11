@@ -1,0 +1,25 @@
+{
+	id: "923b5bf3-1d9c-4e2a-bf1b-a15eaf90fd6a"
+	type: "party"
+	owner: "64d7e124-10df-43a5-92c7-32412af7cac9"
+	ranks: {
+		64d7e124-10df-43a5-92c7-32412af7cac9: "owner"
+		f4177a61-0922-4c2e-af72-7e733b1cece8: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "uwu team"
+		"ftbteams:description": "owo"
+		"ftbteams:color": "#59FFAD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1708271070715L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"koenkiller123\"}]}" }
+		{ from: "64d7e124-10df-43a5-92c7-32412af7cac9", date: 1708271070723L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"20ChickenWings\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1708271687165L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"20ChickenWings\"}]}" }
+		{ from: "64d7e124-10df-43a5-92c7-32412af7cac9", date: 1708280671920L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"20ChickenWings\"}]}" }
+		{ from: "64d7e124-10df-43a5-92c7-32412af7cac9", date: 1708280688649L, text: "{\"text\":\"hi\"}" }
+		{ from: "64d7e124-10df-43a5-92c7-32412af7cac9", date: 1708280724254L, text: "{\"text\":\"ILY\"}" }
+	]
+	extra: { }
+}

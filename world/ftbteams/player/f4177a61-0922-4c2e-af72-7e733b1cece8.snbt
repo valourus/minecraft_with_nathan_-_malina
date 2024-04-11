@@ -1,0 +1,15 @@
+{
+	id: "f4177a61-0922-4c2e-af72-7e733b1cece8"
+	type: "player"
+	player_name: "20ChickenWings"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "20ChickenWings"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "1a92f070-d35b-4216-8f51-a2d5a631c91c"
+	type: "player"
+	player_name: "Umbra1210"
+	ranks: {
+		1a92f070-d35b-4216-8f51-a2d5a631c91c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Umbra1210"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
